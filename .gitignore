@@ -1,0 +1,13 @@
+# 컴파일 실행 파일 및 목적 파일
+*.exe
+*.obj
+*.o
+
+# Visual Studio 및 디버그 관련 임시 파일
+*.ilk
+*.pdb
+*.idb
+vc*.pdb
+
+# VS Code 설정
+.vscode/
