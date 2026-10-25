@@ -3,7 +3,7 @@
 
 int main() {
 
-    int a, b; /**/
+    int a, b;
     int c;
 
     printf("please input the value of a : ");
